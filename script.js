@@ -14,6 +14,7 @@ const translations = {
         downloadLoveball: "Scarica Loveball ↓",
         visitChillroom: "Visita ChillRoom ↗",
         downloadDesktop: "Scarica ChillRoom Desktop ↓",
+        downloadFlowdesk: "Installa FlowDesk ↓",
         // Voci del menu a tutta schermata.
         menuHome: "Home",
         menuWork: "Progetti",
@@ -74,6 +75,7 @@ const translations = {
         downloadLoveball: "Download Loveball ↓",
         visitChillroom: "Visit ChillRoom ↗",
         downloadDesktop: "Download ChillRoom Desktop ↓",
+        downloadFlowdesk: "Install FlowDesk ↓",
                 // Voci inglesi come nel riferimento.
         menuHome: "Home",
         menuWork: "Work",
