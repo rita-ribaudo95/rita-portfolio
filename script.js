@@ -36,6 +36,12 @@ const translations = {
         gameDevelopment: "Sviluppo videogiochi",
         webDevelopment: "Sviluppo web",
         desktopDevelopment: "Sviluppo desktop",
+        // Descrizione e percorso personale di FlowDesk in italiano.
+        flowdeskDescription:
+            "Ho sviluppato un'applicazione desktop in C++ e Qt 6 per la gestione e l'organizzazione degli spazi di lavoro digitali. FlowDesk permette di centralizzare file, documenti e collegamenti web, con funzionalità di ricerca, drag & drop, cronologia delle attività, salvataggio persistente dei dati e temi chiaro e scuro.",
+
+        flowdeskJourney:
+            "Con FlowDesk ho voluto affrontare lo sviluppo di un'applicazione desktop orientata alla produttività. Ho approfondito l'organizzazione del codice, la gestione dei dati, la comunicazione tra componenti e la progettazione delle interfacce. Questo progetto rappresenta un passo importante nel mio percorso verso lo sviluppo di software funzionali, strutturati e curati nell'esperienza utente.",
         loveballDescription:
             "Ho sviluppato un gioco arcade in C++ con SFML: movimento della palla e della piattaforma, collisioni, ostacoli, gestione delle vite e condizioni di vittoria e sconfitta.",
         webDescription:
@@ -90,6 +96,12 @@ const translations = {
         gameDevelopment: "Game development",
         webDevelopment: "Web development",
         desktopDevelopment: "Desktop development",
+        // Descrizione e percorso personale di FlowDesk in inglese.
+        flowdeskDescription:
+            "I developed a desktop application using C++ and Qt 6 to manage and organize digital workspaces. FlowDesk allows users to centralize files, documents and web links, featuring search, drag & drop, activity history, persistent data storage, and light and dark themes.",
+
+        flowdeskJourney:
+            "With FlowDesk, I wanted to explore the development of a productivity-focused desktop application. I strengthened my skills in code organization, data management, communication between components, and interface design. This project represents an important step in my journey toward developing functional, well-structured and user-friendly software.",
         loveballDescription:
             "I developed an arcade game in C++ with SFML, implementing ball and paddle movement, collisions, obstacles, lives, and win and game-over conditions.",
         webDescription:
